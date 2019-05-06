@@ -1,2 +1,3 @@
-# Big-Data-Project
-Visualization of air quality in different states. Quantify the pollution in different states with the help of an Interactive Map of different states and countries displaying the Air Quality Index. Also, evaluating factors responsible for bad AQI in different regions.
+# Data Incubator
+I come from New Delhi, where pollution is a very big issue, especially during the winters when it goes beyond 400 on the AQI index. Thus making the air there to breathe the most toxic in the world. I want to be able to take the data from various sources(including live data) and create an application where I can show visualizations of air quality in different states and countries. Also, quantify the pollution in different states with the help of an Interactive Map of different states and countries displaying the Air Quality Index. Also, evaluating factors responsible for bad AQI in different regions.
+Thus this tool might be able to identify the main cause of the bad air quality and promote the government to take action against the major pollutant to combat this problem.
